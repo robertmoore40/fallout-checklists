@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/robertmoore40/falloutskillbookchecklist/issues"
   },
-  "homepage": "https://github.com/robertmoore40/falloutskillbookchecklist#readme"
+  "homepage": "https://github.com/robertmoore40/falloutskillbookchecklist#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
 }
