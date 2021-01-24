@@ -1,0 +1,20 @@
+{
+  "name": "falloutskillbookchecklist",
+  "version": "1.0.0",
+  "description": "A Fallout 3 and Fallout: New Vegas Checklist for Skill Books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertmoore40/falloutskillbookchecklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertmoore40/falloutskillbookchecklist/issues"
+  },
+  "homepage": "https://github.com/robertmoore40/falloutskillbookchecklist#readme"
+}
